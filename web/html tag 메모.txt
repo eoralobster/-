@@ -1,0 +1,39 @@
+
+태그 모음
+
+<h1>~<h6>: headings
+<strong>: bold
+<u>: underline
+
+<br>: 줄바꿈 --> 감쌀 필요가 없음. 닫지 않음.
+
+<p>: 단락을 만드는 태그.
+
+
+<img src="이미지주소" width="크기">: 이미지 
+img 태그 뒤에 붙는게 속성임.
+
+
+<ul> --> unordered list
+       <li>목차</li>
+</ul>
+
+<ol> --> ordered list
+       <li>목차</li>
+</ol>
+
+<title>글 제목</title>
+
+<meta charset="utf-8"> --> utf-8을 이용해서 읽을 수 있도록 해줌
+
+body 본문은 <body> </body>로 묶기로 약속함
+body 설명해주는 곳은 <head> </head>로 묶기로 약속함
+단 하나의 고위층 태그 --> <html> </html>가 위의 두 개를 다 묶음
+맨 위에 <!doctype html>
+
+
+링크 넣을 땐 
+<a href="링크주소">
+근데 새탭으로 열기 하고 싶으면 <a href="링크주소" target="_blank">
+그리고 커서 올려놨을 때 설명창 뜨게하려면 title="설명창"
+
